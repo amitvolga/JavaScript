@@ -1,2 +1,0 @@
-# JavaScript
-building small project
